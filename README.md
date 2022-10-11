@@ -1,4 +1,5 @@
-# Test
+# To Do List
+Vue to do list app with basic CRUD functionality.
 
 This template should help get you started developing with Vue 3 in Vite.
 
